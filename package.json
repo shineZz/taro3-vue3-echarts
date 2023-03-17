@@ -1,10 +1,10 @@
 {
-  "name": "taro3-vue3-echarts",
+  "name": "echarts",
   "version": "1.0.0",
   "private": true,
   "description": "",
   "templateInfo": {
-    "name": "vue3-NutUI",
+    "name": "",
     "typescript": true,
     "css": "less"
   },
@@ -33,7 +33,7 @@
     "Android >= 4.1",
     "ios >= 8"
   ],
-  "author": "下一个雨季~ <709886167@qq.com>",
+  "author": "",
   "license": "MIT",
   "gitHooks": {
     "pre-commit": "lint-staged"
